@@ -193,7 +193,7 @@ In molecular biology and genetics, GC-content (guanine-cytosine content) is the 
 
 GC ratios have been used to help classify bacteria.
 
-Students will be given the task to read in a genome sequence from a file and tasked to calculate the GC content of the sequence and try to identify the genome source.
+Students will be given the task to read in a genome sequence from a file and calculate the GC content of the sequence and try to identify the genome source.
 
 ## Session 5 : Saturday, March 2, 2019
 
