@@ -236,7 +236,7 @@ The class as a whole will go through a group programming session to develop a Tw
 
 ### Class exercise: Web scraping using Requests and BeautifulSoup
 
-The class as a whole will go through a group programming session to develop a web scraper that will process an webpage and extract HTML elements for processing.
+The class as a whole will go through a group programming session to develop a web scraper that will visit a webpage and extract HTML elements for processing.
 
 ### Class exercise: OCR (optical character recognition) using PyTesseract
 
