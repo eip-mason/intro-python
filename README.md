@@ -161,19 +161,19 @@ If `values = [1, 2, 3, 4, 5]` then produce a function that returns `[1, 4, 9, 16
 ### Exception handling
  
   *  Exception types
-    *  `Exception`
-    *  `AttributeError`
-    *  `IOError`
-    *  `ImportError`
-    *  `IndexError`
-    *  `KeyError`
-    *  `KeyboardInterrupt`
-    *  `NameError`
-    *  `OSError`
-    *  `SyntaxError`
-    *  `TypeError`
-    *  `ValueError`
-    *  `ZeroDivisionError`
+      *  `Exception`
+      *  `AttributeError`
+      *  `IOError`
+      *  `ImportError`
+      *  `IndexError`
+      *  `KeyError`
+      *  `KeyboardInterrupt`
+      *  `NameError`
+      *  `OSError`
+      *  `SyntaxError`
+      *  `TypeError`
+      *  `ValueError`
+      *  `ZeroDivisionError`
   *  `try except`
   *  `try except finally`
   *  `try except else`
@@ -206,15 +206,15 @@ Students will be given the task to read in a genome sequence from a file and tas
 ### Python libraries
 
   *  Installing and using Python libraries
-    *  Requests
-    *  Pillow
-    *  BeautifulSoup
-    *  matplotlib
-    *  Scapy
-    *  SymPy
-    *  wxPython
-    *  Tweepy
-    *  PyTesseract
+      *  [Requests](http://docs.python-requests.org/en/master/)
+      *  [Pillow](https://pillow.readthedocs.io/en/latest/)
+      *  [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+      *  [matplotlib](https://matplotlib.org/contents.html)
+      *  [Scapy](https://scapy.readthedocs.io/en/latest/)
+      *  [SymPy](http://docs.sympy.org/latest/index.html)
+      *  [wxPython](https://wxpython.org/Phoenix/docs/html/)
+      *  [Tweepy](http://docs.tweepy.org/en/v3.5.0/)
+      *  [PyTesseract](https://pypi.org/project/pytesseract/)
 
 ### Tweepy
 
