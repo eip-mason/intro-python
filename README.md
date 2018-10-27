@@ -31,7 +31,7 @@ A computer lab which should facilitate the following:
 ### Group discussion:
 
   *  What is programming?
-  *  Why should you learning programming?
+  *  Why should you learn programming?
   *  What is the impact of programming on our world?
 
 ### Introduction to computational thinking
