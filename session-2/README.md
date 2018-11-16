@@ -14,3 +14,12 @@
 *  12:20 PM - 1:50 PM (PM Session)
 *  1:50 PM - 2:00 PM (Departure)
 
+### Technology in the News
+
+*  Amazon announces HQ2 locations (Nothern Virginia)
+    *  What is Amazon?
+    *  What is Cloud Computing?
+    *  Why is this a big deal?
+    *  What does this mean to you as a student in high school?
+    *  What should you do if you are interested in working for Amazon?
+
