@@ -28,30 +28,60 @@
 *  Hello World!
     *  ATOM Editor
     *  Windows Command Prompt
-    *  `python <source file>`
+        *  Add Python to your PATH
+            *  `set PATH=%PATH%;C:\Python34`
+        *  List directory contents
+            *  `dir`
+        *  Change into a `<directory>`
+            *  `cd <directory>`
+    *  Executing a Python script
+        *  `python <source file>`
 
 ## Session 2 : Saturday, November 17, 2018
 
 ### Introduction to basic data types in Python
 
   *  None
-  *  string
+  *  string (an array/list of characters)
   *  int
   *  float
   *  boolean
   *  list : `[]`
-  *  tuple : `()`
-  *  dictionary : `{}`
+      *  append()
+      *  len()
+      *  min()
+      *  max()
+      *  ...
+  *  tuple : `()` - (an immutable list)
+      *  count()
+      *  index()
+  *  dictionary : `{}` - (key/value pairs)
 
 ### Typecasting
 
+  *  `myNumber = 4.25`
+      *  `int(myNumber)`
+  *  `myNumber = 4`
+      *  `float(myNumber)`
   *  Usage and pitfalls
   
 ### Strings
 
-  *  Concatenation
+  *  Concatenation (addition)
+     *  `newString = myString1 + myString2`
   *  Methods
+     *  `lower()`
+     *  `upper()`
+     *  `swapcase()`
+     *  `strip()`
+     *  `replace()`
   *  Slicing
+     *  `string[10:]`
+     *  `string[:10]`
+     *  `string[:]`
+     *  `string[:10]+string[10:]`
+     *  `string[-5:5]`
+     *  `string[-5:-5]`
   *  Formatting
 
 ### Conditionals and booleans
