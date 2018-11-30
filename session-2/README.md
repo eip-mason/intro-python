@@ -75,14 +75,13 @@
      *  `swapcase()`
      *  `strip()`
      *  `replace()`
-  *  Slicing
-     *  `string[10:]`
-     *  `string[:10]`
-     *  `string[:]`
-     *  `string[:10]+string[10:]`
-     *  `string[-5:5]`
-     *  `string[-5:-5]`
-  *  Formatting
+  *  Slicing (`string = "Hellow World and EIP!"`)
+     *  `string[10:]` = `'ld and EIP!'`
+     *  `string[:10]` = `'Hellow Wor'`
+     *  `string[:]` = `'Hellow World and EIP!'`
+     *  `string[:10]+string[10:]` = `'Hellow World and EIP!'`
+     *  `string[-5:]` = `' EIP!'`
+     *  `string[:-5]` = `'Hellow World and'`
 
 ### Conditionals and booleans
 
@@ -100,24 +99,24 @@ Students will use Python to help fill out a truth table.  A truth table is a bre
 
 | P | Q | Statement | Result |
 |---|---|-----------|--------|
-|`True`||`not P`||
-|`False`||`not P`||
-|`True`|`True`|`P or Q`||
-|`True`|`False`|`P or Q`||
-|`False`|`True`|`P or Q`||
-|`False`|`False`|`P or Q`||
-|`True`|`True`|`P and Q`||
-|`True`|`False`|`P and Q`||
-|`False`|`True`|`P and Q`||
-|`False`|`False`|`P and Q`||
-|`True`|`True`|`not (P or Q)`||
-|`True`|`False`|`not (P or Q)`||
-|`False`|`True`|`not (P or Q)`||
-|`False`|`False`|`not (P or Q)`||
-|`True`|`True`|`not (P and Q)`||
-|`True`|`False`|`not (P and Q)`||
-|`False`|`True`|`not (P and Q)`||
-|`False`|`False`|`not (P and Q)`||
+|`True`||`not P`|`not True` = `False`|
+|`False`||`not P`|`not False` = `True`|
+|`True`|`True`|`P or Q`|`True or True` = `True`|
+|`True`|`False`|`P or Q`|`True or False` = `True`|
+|`False`|`True`|`P or Q`|`False or True` = `True`|
+|`False`|`False`|`P or Q`|`False or False` = `False`|
+|`True`|`True`|`P and Q`|`True and True` = `True`|
+|`True`|`False`|`P and Q`|`True and False` = `False`|
+|`False`|`True`|`P and Q`|`False and True` = `False`|
+|`False`|`False`|`P and Q`|`False and False` = `False`|
+|`True`|`True`|`not (P or Q)`|`not (True or True)` = `not (True)` = `False`|
+|`True`|`False`|`not (P or Q)`|`not (True or False)` = `not (True)` = `False`|
+|`False`|`True`|`not (P or Q)`|`not (False or True)` = `not (True)` = `False`|
+|`False`|`False`|`not (P or Q)`|`not (False or False)` = `not (False)` = `True`|
+|`True`|`True`|`not (P and Q)`|`not (True and True)` = `not (True)` = `False`|
+|`True`|`False`|`not (P and Q)`|`not (True and False)` = `not (False)` = `True`|
+|`False`|`True`|`not (P and Q)`|`not (False and True)` = `not (False)` = `True`|
+|`False`|`False`|`not (P and Q)`|`not (False and False)` = `not (False)` = `True`|
 |`1`|`1`|`P == Q`||
 |`1`|`0`|`P == Q`||
 |`0`|`1`|`P == Q`||
