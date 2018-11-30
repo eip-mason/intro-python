@@ -117,13 +117,13 @@ Students will use Python to help fill out a truth table.  A truth table is a bre
 |`True`|`False`|`not (P and Q)`|`not (True and False)` = `not (False)` = `True`|
 |`False`|`True`|`not (P and Q)`|`not (False and True)` = `not (False)` = `True`|
 |`False`|`False`|`not (P and Q)`|`not (False and False)` = `not (False)` = `True`|
-|`1`|`1`|`P == Q`||
-|`1`|`0`|`P == Q`||
-|`0`|`1`|`P == Q`||
-|`0`|`0`|`P == Q`||
-|`1`|`1`|`P != Q`||
-|`1`|`0`|`P != Q`||
-|`0`|`1`|`P != Q`||
-|`0`|`0`|`P != Q`||
+|`1`|`1`|`P == Q`|`True`|
+|`1`|`0`|`P == Q`|`False`|
+|`0`|`1`|`P == Q`|`False`|
+|`0`|`0`|`P == Q`|`True`|
+|`1`|`1`|`P != Q`|`True`|
+|`1`|`0`|`P != Q`|`True`|
+|`0`|`1`|`P != Q`|`True`|
+|`0`|`0`|`P != Q`|`False`|
 
 
