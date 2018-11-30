@@ -5,7 +5,6 @@
 
 *  **Mr. Leang** (Instructor) 
 *  **Jesse**
-*  **Powlos**
 
 ### Schedule
 
