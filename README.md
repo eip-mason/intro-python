@@ -131,7 +131,6 @@ Students will use Python to help fill out a truth table.  A truth table is a bre
 
   *  `[x for x in range()]`
   *  `[x for x in y if <conditional>]`
-  *  `[x for y in z for x in y]`
 
 ### Dictionary comprehension
 
