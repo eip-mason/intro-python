@@ -138,6 +138,21 @@
          12: 'December' }
      ```
   
+  *  ```python
+     months_dictionary={
+         'January'  :1 ,
+         'February' :2 ,
+         'March'    :3 ,
+         'April'    :4 ,
+         'May'      :5 ,
+         'June'     :6 ,
+         'July'     :7 ,
+         'August'   :8 ,
+         'September':9 ,
+         'October'  :10,
+         'November' :11,
+         'December' :12}
+     ```
 
 ### Iterating over a tuple
 
@@ -187,7 +202,9 @@ def square_them(values=None):
     if values is None:
         return
     else:
+        values_squared=[]
         ...
+        return values_squared
 
 values=[1,2,3,4,5,6,7,8,9]
 print(square_them(values))
