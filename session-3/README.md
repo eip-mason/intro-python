@@ -123,7 +123,7 @@
 ### Iterating over a dictionary
 
   *  ```python
-     months_dictionary={
+     months_dictionary_1={
          1 : 'January',
          2 : 'February',
          3 : 'March',
@@ -139,7 +139,7 @@
      ```
   
   *  ```python
-     months_dictionary={
+     months_dictionary_2={
          'January'  :1 ,
          'February' :2 ,
          'March'    :3 ,
@@ -171,15 +171,6 @@
           "November",
           12
       )
-
-### Functions
-
-  *  Definition and use
-  *  Arguments
-  *  Block structure
-  *  Scope and globals
-  
-### API (application programming interface)
 
 ### Programming exercise:
 
