@@ -73,8 +73,19 @@
         words=['early','identification','program']
         for w in words:
             print(w, len(w))
+
+        ```
         
-        #for-statement over a sequence of numbers
+
+        ```python
+        range([start], stop[, step])
+        *  start: starting number of sequence
+        *  stop: generate numbers up to, but not including this number
+        *  step: difference between each number in the sequence
+        ```
+
+        ```python
+        # for-statement over a sequence of numbers
         for i in range(10):
             print(i)
         
