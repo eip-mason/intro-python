@@ -114,16 +114,11 @@
         print(x,"is NOT less than max")
         ```
 
-### List comprehension
+### Iterating over a list
 
-        ```python
-        names=['']
-        ```
+### Iterating over a dictionary
 
-
-### Dictionary comprehension
-
-### Set comprehension
+### Iterating over a tuple
 
 ### Functions
 
@@ -134,12 +129,30 @@
   
 ### API (application programming interface)
 
-### Programming exercise: Being Pythonic
+### Programming exercise:
 
-This programming exercise will focus on list comprehension.  Students will compare the time it takes to perform a task using Python list comprehension to a similar task that does not use Python list comprehension.
+Beginner Task:
 
-The task:
+Given a list of values, each value of the list squared.
 
-Given a list of values, return a corresponding list with each value squared.
+```python
+values=[1,2,3,4,5,6,7,8,9]
+...
+```
 
-If `values = [1, 2, 3, 4, 5]` then produce a function that returns `[1, 4, 9, 16, 25]`
+Intermediate Task:
+
+Define a function `square_them` that takes in a list of numbers as a parameter and returns a list with each element squared.
+
+
+```python
+
+def square_them(values=None):
+    if values is None:
+        return
+    else:
+        ...
+
+values=[1,2,3,4,5,6,7,8,9]
+print(square_them(values))
+```
