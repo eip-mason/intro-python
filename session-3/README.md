@@ -141,6 +141,22 @@
 
 ### Iterating over a tuple
 
+   *  ```python
+      months_tuple=(
+          "Jan",
+          "Feburary",
+          3,
+          "Mar",
+          "April",
+          6,
+          "Jul",
+          "August",
+          9,
+          "Oct",
+          "November",
+          12
+      )
+
 ### Functions
 
   *  Definition and use
