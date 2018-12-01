@@ -13,6 +13,11 @@
 *  12:20 PM - 1:50 PM (PM Session)
 *  1:50 PM - 2:00 PM (Departure)
 
+### Questions / Comments
+
+### Review
+  *  How fast can you create a **hello.py** script which prints out `Hello World!` and run it?
+
 ### Installing Python 3 on Windows
   * [https://www.python.org/](https://www.python.org/)
 
@@ -25,11 +30,8 @@
 ### Ensuring PATH environmnental variable is set
   * Google search terms [`environment variable setting windows 10`](https://www.google.com/search?num=100&q=environment+variable+setting+windows+10&spell=1&sa=X&ved=0ahUKEwjBhdSXq_3eAhXCo4MKHXdDBW8QBQgpKAA&biw=954&bih=1022)
 
-### Review
-  *  How fast can you create a **hello.py** script which prints out `Hello World!` and run it?
-
 ### Control Structures
-  *  Conditional Statements ([Review](../session-2/README.md))
+  *  Conditional Statements ([Review](https://github.com/eip-mason/intro-python/blob/master/session-2/README.md#programming-exercise-truth-table-for-booleans))
 
         ```python
         # if-statement
