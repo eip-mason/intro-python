@@ -25,8 +25,11 @@
 ### Ensuring PATH environmnental variable is set
   * Google search terms [`environment variable setting windows 10`](https://www.google.com/search?num=100&q=environment+variable+setting+windows+10&spell=1&sa=X&ved=0ahUKEwjBhdSXq_3eAhXCo4MKHXdDBW8QBQgpKAA&biw=954&bih=1022)
 
+### Review
+  *  How fast can you create a **hello.py** script which prints out `Hello World!` and run it?
+
 ### Control Structures
-  *  Conditional Statements
+  *  Conditional Statements ([Review](../session-2/README.md))
 
         ```python
         # if-statement
