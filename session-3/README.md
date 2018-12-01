@@ -28,33 +28,31 @@
 ### Control Structures
   *  Conditional Statements
 
-    ```python
-    # if-statement
-    if (shoe == "RED"):
-        print("Shoe is RED")
+        ```python
+        # if-statement
+        if (shoe == "RED"):
+            print("Shoe is RED")
+        
+        # if-else statement
+        if (shoe == "RED"):
+            print("Shoe is RED")
+        else:
+            print("Shoe is NOT RED")
     
-    # if-else statement
-    if (shoe == "RED"):
-        print("Shoe is RED")
-    else:
-        print("Shoe is NOT RED")
-
-    # if-elif statement
-    if (shoe == "RED"):
-        print("Shoe is RED")
-    elif (shoe == "BLACK"):
-        print("Shoe is BLACK")
-    
-    # if-elif-else statement
-    if (shoe == "RED"):
-        print("Shoe is RED")
-    elif (shoe == "BLACK"):
-        print("Shoe is BLACK")
-    else:
-        print("Shoe is NEITHER RED NOR BLACK")
-
-    ```
-
+        # if-elif statement
+        if (shoe == "RED"):
+            print("Shoe is RED")
+        elif (shoe == "BLACK"):
+            print("Shoe is BLACK")
+        
+        # if-elif-else statement
+        if (shoe == "RED"):
+            print("Shoe is RED")
+        elif (shoe == "BLACK"):
+            print("Shoe is BLACK")
+        else:
+            print("Shoe is NEITHER RED NOR BLACK")
+        ```
 
   *  
 
