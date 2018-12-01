@@ -78,10 +78,11 @@
         
 
         ```python
+        # range function
         range([start], stop[, step])
-        # *  start: starting number of sequence
-        # *  stop: generate numbers up to, but not including this number
-        # *  step: difference between each number in the sequence
+        # start: starting number of sequence
+        # stop: generate numbers up to, but not including this number
+        # step: difference between each number in the sequence
         ```
 
         ```python
