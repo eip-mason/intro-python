@@ -54,14 +54,18 @@
             print("Shoe is NEITHER RED NOR BLACK")
         ```
 
-  *  
+  *  For Loop (iterate over any sequence)
 
-### Loops
-
-  *  `range()`
-  *  `for`
-  *  `for else`
-  *  `while`
+        ```python
+        # for-statement
+        alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        for letter in alphabet:
+            print(letter)
+        
+        vowels=["a","e","i","o","u","y"]
+        for vowel in vowels:
+            print(vowel)
+        ```
 
 ### List comprehension
 
