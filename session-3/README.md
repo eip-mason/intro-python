@@ -25,6 +25,39 @@
 ### Ensuring PATH environmnental variable is set
   * Google search terms [`environment variable setting windows 10`](https://www.google.com/search?num=100&q=environment+variable+setting+windows+10&spell=1&sa=X&ved=0ahUKEwjBhdSXq_3eAhXCo4MKHXdDBW8QBQgpKAA&biw=954&bih=1022)
 
+### Control Structures
+  *  Conditional Statements
+
+    ```python
+    # if-statement
+    if (shoe == "RED"):
+        print("Shoe is RED")
+    
+    # if-else statement
+    if (shoe == "RED"):
+        print("Shoe is RED")
+    else:
+        print("Shoe is NOT RED")
+
+    # if-elif statement
+    if (shoe == "RED"):
+        print("Shoe is RED")
+    elif (shoe == "BLACK"):
+        print("Shoe is BLACK")
+    
+    # if-elif-else statement
+    if (shoe == "RED"):
+        print("Shoe is RED")
+    elif (shoe == "BLACK"):
+        print("Shoe is BLACK")
+    else:
+        print("Shoe is NEITHER RED NOR BLACK")
+
+    ```
+
+
+  *  
+
 ### Loops
 
   *  `range()`
