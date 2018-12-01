@@ -78,7 +78,6 @@
         
 
         ```python
-        # range function
         range([start], stop[, step])
         # start: starting number of sequence
         # stop: generate numbers up to, but not including this number
@@ -95,7 +94,6 @@
 
         for i in range(0, 10, 3):
             print(i)
-        
 
         #for-statement over indices of a sequence
         vowels=["a","e","i","o","u","y"]
@@ -115,9 +113,13 @@
             print(x,"is less than max")
         print(x,"is NOT less than max")
         ```
-        
 
 ### List comprehension
+
+        ```python
+        names=['']
+        ```
+
 
 ### Dictionary comprehension
 
