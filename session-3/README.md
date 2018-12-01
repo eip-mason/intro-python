@@ -13,6 +13,18 @@
 *  12:20 PM - 1:50 PM (PM Session)
 *  1:50 PM - 2:00 PM (Departure)
 
+### Installing Python 3 on Windows
+  * [https://www.python.org/](https://www.python.org/)
+
+### Installing Atom Editor on Windows
+  *  [https://atom.io/](https://atom.io/)
+
+### Installing and Integrated Development Environment (IDE) Visual Studio Code Community
+  *  [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+### Ensuring PATH environmnental variable is set
+  * Google search terms [`environment variable setting windows 10`](https://www.google.com/search?num=100&q=environment+variable+setting+windows+10&spell=1&sa=X&ved=0ahUKEwjBhdSXq_3eAhXCo4MKHXdDBW8QBQgpKAA&biw=954&bih=1022)
+
 ### Loops
 
   *  `range()`
@@ -25,7 +37,7 @@
   *  `[x for x in range()]`
       *  `[x for x in range(10)]`
   *  `[x for x in y if <conditional>]`
-      *  `[x for x in y if x % 2 == 0]`  (let `y=[0,1,2,3,4,5,6,7,8,9]`
+      *  `[x for x in y if x % 2 == 0]`  (let `y=[0,1,2,3,4,5,6,7,8,9]`)
 
 ### Dictionary comprehension
 
