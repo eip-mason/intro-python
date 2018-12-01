@@ -19,7 +19,7 @@
 ### Installing Atom Editor on Windows
   *  [https://atom.io/](https://atom.io/)
 
-### Installing and Integrated Development Environment (IDE) Visual Studio Code Community
+### Installing an Integrated Development Environment (IDE) Visual Studio Code Community
   *  [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ### Ensuring PATH environmnental variable is set
