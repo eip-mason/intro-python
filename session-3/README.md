@@ -122,7 +122,9 @@
 
 ### Iterating over a dictionary
 
-  *  my_dict={
+  *  ```python
+     my_dict={ 1 : 'January' }
+     ```
   
 
 ### Iterating over a tuple
