@@ -30,22 +30,26 @@
 
         ```python
         # if-statement
+        shoe="RED"
         if (shoe == "RED"):
             print("Shoe is RED")
         
         # if-else statement
+        shoe="BLACK"
         if (shoe == "RED"):
             print("Shoe is RED")
         else:
             print("Shoe is NOT RED")
     
         # if-elif statement
+        shoe="GREEN"
         if (shoe == "RED"):
             print("Shoe is RED")
         elif (shoe == "BLACK"):
             print("Shoe is BLACK")
         
         # if-elif-else statement
+        shoe="GREEN"
         if (shoe == "RED"):
             print("Shoe is RED")
         elif (shoe == "BLACK"):
@@ -65,6 +69,10 @@
         vowels=["a","e","i","o","u","y"]
         for vowel in vowels:
             print(vowel)
+        
+        words=['early','identification','program']
+        for w in words:
+            print(w, len(w))
         ```
 
 ### List comprehension
