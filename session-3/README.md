@@ -116,7 +116,14 @@
 
 ### Iterating over a list
 
+  *  ```python
+     my_list=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+     ```
+
 ### Iterating over a dictionary
+
+  *  my_dict={
+  
 
 ### Iterating over a tuple
 
@@ -133,7 +140,7 @@
 
 Beginner Task:
 
-Given a list of values, each value of the list squared.
+Given a list of values, iterate over the list of values and print the square of each value.
 
 ```python
 values=[1,2,3,4,5,6,7,8,9]
@@ -146,7 +153,6 @@ Define a function `square_them` that takes in a list of numbers as a parameter a
 
 
 ```python
-
 def square_them(values=None):
     if values is None:
         return
