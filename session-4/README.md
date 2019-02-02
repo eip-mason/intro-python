@@ -15,6 +15,15 @@
 *  1:45 PM (Leave)
 *  1:50 PM - 2:00 PM (Departure)
 
+### Review
+
+  *  Launch the Windows Command Prompt ("cmd")
+  *  Check that python is in your PATH by executing `python` in the Windows Command Prompt
+     *  Exit the Windows Command Prompt after verifying
+         * `exit()`
+  *  Understanding the Windows Command Prompt
+     *  Comparing with Windows Explorer
+
 ### Functions
 
   *  Definition and use
@@ -26,18 +35,21 @@
  
   *  Exception types
       *  `Exception`
-      *  `AttributeError`
-      *  `IOError`
-      *  `ImportError`
-      *  `IndexError`
-      *  `KeyError`
-      *  `KeyboardInterrupt`
-      *  `NameError`
-      *  `OSError`
-      *  `SyntaxError`
-      *  `TypeError`
-      *  `ValueError`
-      *  `ZeroDivisionError`
+          *  `ZeroDivisionError`
+          *  `IndexError`
+          *  `KeyError`
+          *  `KeyboardInterrupt`
+          *  `AttributeError`
+          *  `IOError`
+          *  `ImportError`
+          *  `NameError`
+          *  `OSError`
+          *  `SyntaxError`
+          *  `TypeError`
+          *  `ValueError`
+          
   *  `try except`
   *  `try except finally`
-  *  `try except else`
+
+### Create a GitHub account
+  *  http://github.com/signup
