@@ -36,14 +36,70 @@
 
   *  How to read a file
   *  How to read a file piece by piece
-  *  How to read a binary file
+  *  ~~How to read a binary file~~
   *  Writing files in Python
   *  Using the `with` operator
   *  Catching errors
 
 ### I/O utilities in Python
 
+## Opening a file
 
+```python
+file object = open(file_name [, access_mode][, buffering])
+```
+
+*  access_modes
+    *  r
+    *  r+
+    *  w
+    *  w+
+    *  a
+    *  a+
+
+*  file object attributes
+    *  file.closed
+    *  file.mode
+    *  file.name
+
+*  file object methods
+    *  `close()`
+    *  `write(string)`
+    *  `read([count])`
+    *  `readlines()`
+    *  `rename(current_file_name, new_file_name)`
+
+## Processing a file
+
+### Using `for`
+
+```python
+for line in f:
+    print(line)
+```
+
+### Using `with`
+
+The with statement is used to wrap the execution of a block with methods defined by a context manager
+
+```python
+with open('filename.txt') as f:
+    read_data = f.read()
+```
+
+## JSON - Javascript Object Notation
+
+```python
+import json
+
+# files
+json.load()
+json.dump()
+
+#strings
+json.dumps()
+json.dumps()
+```
 
 ### Programming exercise: Bioinformatics - Calculating GC content
 
@@ -52,3 +108,5 @@ In molecular biology and genetics, GC-content (guanine-cytosine content) is the 
 GC ratios have been used to help classify bacteria.
 
 Students will be given the task to read in a genome sequence from a file and calculate the GC content of the sequence and try to identify the genome source.
+
+
