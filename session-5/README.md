@@ -20,9 +20,6 @@
 ### Installing Atom Editor on Windows
   *  [https://atom.io/](https://atom.io/)
 
-### Ensuring PATH environmnental variable is set
-  * Google search terms [`environment variable setting windows 10`](https://www.google.com/search?num=100&q=environment+variable+setting+windows+10&spell=1&sa=X&ved=0ahUKEwjBhdSXq_3eAhXCo4MKHXdDBW8QBQgpKAA&biw=954&bih=1022)
-
 ### Review
 
   *  Launch the Windows Command Prompt ("cmd")
@@ -31,6 +28,10 @@
          * `exit()`
   *  Understanding the Windows Command Prompt
      *  Comparing with Windows Explorer
+
+### Installing `script` package into Atom editor
+  *  https://atom.io/packages/script
+  *  Shortcut key: Ctrl + Shift + B
 
 ### Working with files
 
