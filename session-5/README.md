@@ -14,6 +14,15 @@
 *  1:45 PM (Leave)
 *  1:50 PM - 2:00 PM (Departure)
 
+### Installing Python 3 on Windows
+  * [https://www.python.org/](https://www.python.org/)
+
+### Installing Atom Editor on Windows
+  *  [https://atom.io/](https://atom.io/)
+
+### Ensuring PATH environmnental variable is set
+  * Google search terms [`environment variable setting windows 10`](https://www.google.com/search?num=100&q=environment+variable+setting+windows+10&spell=1&sa=X&ved=0ahUKEwjBhdSXq_3eAhXCo4MKHXdDBW8QBQgpKAA&biw=954&bih=1022)
+
 ### Review
 
   *  Launch the Windows Command Prompt ("cmd")
@@ -31,6 +40,10 @@
   *  Writing files in Python
   *  Using the `with` operator
   *  Catching errors
+
+### I/O utilities in Python
+
+
 
 ### Programming exercise: Bioinformatics - Calculating GC content
 
