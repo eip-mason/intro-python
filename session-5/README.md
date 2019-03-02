@@ -65,9 +65,8 @@ file object = open(file_name [, access_mode][, buffering])
 *  file object methods
     *  `close()`
     *  `write(string)`
-    *  `read([count])`
-    *  `readlines()`
-    *  `rename(current_file_name, new_file_name)`
+    *  `read()`
+    *  `readline()`
 
 ## Processing a file
 
