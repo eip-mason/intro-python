@@ -36,17 +36,15 @@
 
   *  How to read a file
   *  How to read a file piece by piece
-  *  ~~How to read a binary file~~
   *  Writing files in Python
   *  Using the `with` operator
-  *  Catching errors
 
 ### I/O utilities in Python
 
 ## Opening a file
 
 ```python
-file object = open(file_name [, access_mode][, buffering])
+file_object = open(file_name [, access_mode])
 ```
 
 *  access_modes
@@ -58,22 +56,22 @@ file object = open(file_name [, access_mode][, buffering])
     *  a+
 
 *  file object attributes
-    *  file.closed
-    *  file.mode
-    *  file.name
+    *  file_object.closed
+    *  file_object.mode
+    *  file_object.name
 
 *  file object methods
-    *  `close()`
-    *  `write(string)`
-    *  `read()`
-    *  `readline()`
+    *  `close()` - closes file object
+    *  `write(string)` - writes a string to the file object
+    *  `read()` - reads the entire contents of the file
+    *  `readline()` - reads in a single line of the file
 
 ## Processing a file
 
 ### Using `for`
 
 ```python
-for line in f:
+for line in file_object:
     print(line)
 ```
 
@@ -82,8 +80,8 @@ for line in f:
 The with statement is used to wrap the execution of a block with methods defined by a context manager
 
 ```python
-with open('filename.txt') as f:
-    read_data = f.read()
+with open('filename.txt') as file_object:
+    read_data = file_object.read()
 ```
 
 ## JSON - Javascript Object Notation
@@ -92,11 +90,11 @@ with open('filename.txt') as f:
 import json
 
 # files
-json.load()
-json.dump()
+json.load(data,filename)
+json.dump(data,filename)
 
 #strings
-json.dumps()
+json.load()
 json.dumps()
 ```
 
