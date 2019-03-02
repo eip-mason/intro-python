@@ -177,6 +177,8 @@ If `values = [1, 2, 3, 4, 5]` then produce a function that returns `[1, 4, 9, 16
   *  `try except finally`
   *  `try except else`
 
+## Session 5 : Saturday, March 2, 2019
+
 ### Working with files
 
   *  How to read a file
@@ -194,7 +196,7 @@ GC ratios have been used to help classify bacteria.
 
 Students will be given the task to read in a genome sequence from a file and calculate the GC content of the sequence and try to identify the genome source.
 
-## Session 5 : Saturday, March 2, 2019
+## Session 6 : Saturday, April 6, 2019
 
 ### Importing
 
@@ -226,8 +228,6 @@ Students will be given the task to read in a genome sequence from a file and cal
 In this open lab students will be tasked to explore available Python libraries and select a Python library to learn and use.  Students will be expected to become "experts" for the given Python library and present their findings to the class on how to use the library's API (application programming interface).
 
 The term "expert" is use loosely.  Given that no one is likely to have any background on a given Python library - any iota of knowledge will make the student the classroom "expert".
-
-## Session 6 : Saturday, April 6, 2019
 
 ### Class exercise: Creating a Twitter bot using Tweepy
 
