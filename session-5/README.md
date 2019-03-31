@@ -99,12 +99,3 @@ json.load()
 json.dumps()
 ```
 
-### Programming exercise: Bioinformatics - Calculating GC content
-
-In molecular biology and genetics, GC-content (guanine-cytosine content) is the percentage of nitrogenous bases on a DNA or RNA molecule that are either guanine or cytosine.
-
-GC ratios have been used to help classify bacteria.
-
-Students will be given the task to read in a genome sequence from a file and calculate the GC content of the sequence and try to identify the genome source.
-
-
