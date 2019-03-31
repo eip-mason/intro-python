@@ -65,6 +65,7 @@
 *  Open up the command prompt
     1.  Test if python is working: type `python` and hit enter
     2.  If you get an error then: type `set PATH=%PATH%;C:\Python34` and hit enter
+        *  Note: If a different version of Python is installed then your path will need to reflect this.  Replace `34` with the version that is installed (e.g. Python 3.6 - replace with `36`)
     3.  Repeat Step i.
 *  Execute your script:
     *  Switch into the directory containing **hello.py** 
