@@ -113,5 +113,52 @@
    print(x,"is NOT less than max")
    ```
 
-#### Session 4 - 
-#### Session 5 - 
+#### Session 4 - Exception Handling
+
+*  Exception types
+   *  `ZeroDivisionError`
+   *  `IndexError`
+   *  `KeyError`
+   *  `KeyboardInterrupt`
+   *  `AttributeError`
+   *  `IOError`
+   *  `ImportError`
+   *  `NameError`
+   *  `OSError`
+   *  `SyntaxError`
+   *  `TypeError`
+   *  `ValueError`
+
+```python
+numerator=1
+denominator=0
+try:
+    division_result=numerator/denominator
+except ZeroDivisionError:
+    print("Denominator is Zero!")
+except:
+    print("Unable to perform division")
+```
+
+#### Session 5 - Input/Output and File Handing
+
+*  Opening a file
+
+   ```python
+   file_object = open(file_name [, access_mode])
+   ```
+
+*  Processing a file
+    *  Using `for`
+
+         ```python
+         for line in file_object:
+             print(line)
+         ```
+
+    *  Using `with`
+
+         ```python
+         with open('filename.txt') as file_object:
+             read_data = file_object.read()
+         ```
