@@ -16,9 +16,9 @@
 *  1:45 PM (Leave)
 *  1:50 PM - 2:00 PM (Departure)
 
-### Review of course material
+# Review of course material
 
-#### Session 1 - Python IDE, ATOM Editor, Windows Command Prompt
+## Session 1 - Python IDE, ATOM Editor, Windows Command Prompt
 
 *  Hello World!
     *  `print("Hello World!")`
@@ -28,7 +28,7 @@
     *  `cd Documents`
     *  `python hello.py`
 
-#### Session 2 - Python Data Types, Typecasting, Strings, Conditionals
+## Session 2 - Python Data Types, Typecasting, Strings, Conditionals
 
 *  Data Types
     *  **None** - null
@@ -51,7 +51,7 @@
 *  Conditionals
     *  `if`, `if else`, `if elif`, `if elif else`, `and`, `or`, `not`
 
-#### Session 3 - Control Structures
+## Session 3 - Control Structures
 
 *  Conditional statements
 
@@ -113,7 +113,7 @@
    print(x,"is NOT less than max")
    ```
 
-#### Session 4 - Exception Handling
+## Session 4 - Exception Handling
 
 *  Exception types
    *  `ZeroDivisionError`
@@ -140,7 +140,7 @@ except:
     print("Unable to perform division")
 ```
 
-#### Session 5 - Input/Output and File Handing
+## Session 5 - Input/Output and File Handing
 
 *  Opening a file
 
