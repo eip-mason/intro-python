@@ -51,6 +51,67 @@
 *  Conditionals
     *  `if`, `if else`, `if elif`, `if elif else`, `and`, `or`, `not`
 
-#### Session 3 - 
+#### Session 3 - Control Structures
+
+*  Conditional statements
+
+   ```python
+   # if-elif-else statement
+   shoe="GREEN"
+   if (shoe == "RED"):
+      print("Shoe is RED")
+   elif (shoe == "BLACK"):
+      print("Shoe is BLACK")
+   else:
+      print("Shoe is NEITHER RED NOR BLACK")
+   ```
+
+*  For Loop
+
+   ```python
+   # for-statement
+   alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+   for letter in alphabet:
+      print(letter)
+
+   vowels=["a","e","i","o","u","y"]
+   for vowel in vowels:
+      print(vowel)
+
+   words=['early','identification','program']
+   for w in words:
+      print(w, len(w))
+
+   ```
+
+   ```python
+   # for-statement over a sequence of numbers
+   for i in range(10):
+      print(i)
+
+   for i in range(5, 10):
+      print(i)
+
+   for i in range(0, 10, 3):
+      print(i)
+
+   #for-statement over indices of a sequence
+   vowels=["a","e","i","o","u","y"]
+   for i in range(len(vowels)):
+      print(i, vowels[i])
+   ```
+
+*  While Loop (repeated execution when expression is `True`)
+
+   ```python
+   # while-statement
+   maxValue=50
+   x=0
+   while (x < maxValue):
+      x=x+1
+      print(x,"is less than max")
+   print(x,"is NOT less than max")
+   ```
+
 #### Session 4 - 
 #### Session 5 - 
