@@ -1,12 +1,13 @@
 # EIP STEM-H Power Aid
 ## April 5, 2019
 
-### Thompson Room L004
+### Thompson Room L014
 
 ### Instructor and Mentors
 
 *  **Mr. Leang** (Instructor) 
 *  **Jesse**
+*  **/**
 
 ### Schedule
 
