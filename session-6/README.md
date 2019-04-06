@@ -7,7 +7,7 @@
 
 *  **Mr. Leang** (Instructor) 
 *  **Jesse**
-*  **/**
+*  **Jeffrey**
 
 ### Schedule
 
