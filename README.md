@@ -1,4 +1,4 @@
-# Introduction to Programming
+# Introduction to Computer Programming and Computational Thinking
 
 ## Objective
 
@@ -19,7 +19,7 @@ A computer lab which should facilitate the following:
   *  The ability to download and install the [ATOM](https://atom.io/) editor on each computing terminal.
   *  A large screen to project the instructor's computing terminal.
 
-## Session 1 : Saturday, October 27, 2018
+## Session 1 : Saturday, November 2, 2019
 
 ### Introduction to the course:
 
@@ -51,7 +51,7 @@ A computer lab which should facilitate the following:
 
 Students will create the most basic Python program possible which will display the words "Hello World" to the screen. This is the de facto first program for all introductory courses in any given programming language.
 
-## Session 2 : Saturday, November 17, 2018
+## Session 2 : Saturday, November 23, 2019
 
 ### Introduction to basic data types in Python
 
@@ -118,7 +118,7 @@ Students will use Python to help fill out a truth table.  A truth table is a bre
 |`0`|`1`|`P != Q`||
 |`0`|`0`|`P != Q`||
 
-## Session 3 : Saturday, December 1, 2018
+## Session 3 : Saturday, February 29, 2020
 
 ### Loops
 
@@ -155,7 +155,7 @@ Given a list of values, return a corresponding list with each value squared.
 
 If `values = [1, 2, 3, 4, 5]` then produce a function that returns `[1, 4, 9, 16, 25]`
 
-## Session 4 : Saturday, February 2, 2019
+## Session 4 : Saturday, March 28, 2020
 
 ### Exception handling
  
@@ -177,7 +177,7 @@ If `values = [1, 2, 3, 4, 5]` then produce a function that returns `[1, 4, 9, 16
   *  `try except finally`
   *  `try except else`
 
-## Session 5 : Saturday, March 2, 2019
+## Session 5 : Saturday, April 18, 2020
 
 ### Working with files
 
@@ -196,7 +196,7 @@ GC ratios have been used to help classify bacteria.
 
 Students will be given the task to read in a genome sequence from a file and calculate the GC content of the sequence and try to identify the genome source.
 
-## Session 6 : Saturday, April 6, 2019
+## Session X : Overflow
 
 ### Importing
 
