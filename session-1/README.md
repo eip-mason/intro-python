@@ -43,8 +43,8 @@
         *  State your full name.
         *  What is your grade level and school?
         *  How long have you been in EIP?
-        *  Why did you choose to attend STEM+H Power Aid?
-        *  Why did you choose this course for STEM+H Power Aid?
+        *  Why did you choose to attend STEM Fusion!?
+        *  Why did you choose this course for STEM Fusion!?
         *  What do you hope to get out of this course?
 
 ### Discussion
