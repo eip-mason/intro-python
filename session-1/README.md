@@ -6,9 +6,11 @@
 *  **Sarom Leang**, Ph.D. (Instructor) 
     *  1998 - EIP Class 7 Scholar
     *  2004 - B.S. Chemistry (Honors), Minor Computer Science - George Mason University
-    *  2011 - Ph,D. Physical Chemistry - Iowa State University
-*  **Jesse McClandish** (Junior at GMU, Computer Science)
-*  **Powlos Million** (Freshman at GMU, Cybersecurity)
+    *  2011 - Ph.D. Physical Chemistry - Iowa State University
+    *  2011 - Postdoctoral Researcher - Iowa State University
+    *  2014 - Assistant Research Scientist (III) - The Ames Laboratory, DoE
+    *  2018 - Senior Computational Scientist/Software Engineer - EP Analytics, Inc.
+*  **Jesse McClandish** (Senior at GMU, Computer Science)
 
 ### Schedule
 
