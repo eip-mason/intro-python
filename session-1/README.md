@@ -34,6 +34,8 @@
 *  Resources
     *  Google -> Stackoverflow
 
+## Session 1 : Saturday, November 2, 2019
+
 ### Introduction
 *  Choose one:
     1.  Everyone has a story. What is yours?
