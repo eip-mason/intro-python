@@ -1,5 +1,5 @@
-# EIP STEM-H Power Aid
-## October 27, 2018
+# EIP STEM Fusion!
+## November 2, 2019
 
 ### Instructor and Mentors
 
