@@ -36,7 +36,7 @@
     *  Executing a Python script
         *  `python <source file>`
 
-## Session 2 : Saturday, November 17, 2018
+## Session 2 : Saturday, November 23, 2019
 
 ### Introduction to basic data types in Python
 
