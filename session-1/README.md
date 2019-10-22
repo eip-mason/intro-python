@@ -4,7 +4,7 @@
 ### Instructor and Mentors
 
 *  **Sarom Leang**, Ph.D. (Instructor) 
-    *  1998 - EIP Class 7 Scholar
+    *  1998 - EIP Class 7 Scholar (Wakefield High School)
     *  2004 - B.S. Chemistry (Honors), Minor Computer Science - George Mason University
     *  2011 - Ph.D. Physical Chemistry - Iowa State University
     *  2011 - Postdoctoral Researcher - Iowa State University
