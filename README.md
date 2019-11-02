@@ -1,4 +1,4 @@
-# Introduction to Computational Thinking and Computer Programming
+# Introduction to Computer Programming and Computational Thinking
 
 ## Objective
 
