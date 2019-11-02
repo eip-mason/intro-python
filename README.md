@@ -23,7 +23,7 @@ A computer lab which should facilitate the following:
 The following applications will be required for the course:
 
   *  ATOM Editor  [https://atom.io](https://atom.io/)
-      *  (Alternatively) Sublime Editor  [https://www.sublimetext.com] (https://www.sublimetext.com/)
+      *  (Alternatively) Sublime Editor [https://www.sublimetext.com](https://www.sublimetext.com/)
   *  Python [https://www.python.org/downloads](https://www.python.org/downloads/)
 
 ## [Session 1 : Saturday, November 2, 2019](session-1)
