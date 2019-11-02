@@ -1,8 +1,8 @@
-# Introduction to Computer Programming and Computational Thinking
+# Introduction to Computational Thinking and Computer Programming
 
 ## Objective
 
-This course introduces the fundamental building blocks of programming and teaches students how to programs using the Python language.
+This course introduces the fundamental building blocks of computational thinking and computer programming using the Python language.
 
 Upon successful completion of this course, students will be able to:
   *  Improve their computational thinking skills
