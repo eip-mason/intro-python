@@ -5,8 +5,8 @@
 
 *  **Sarom Leang**, Ph.D. (Instructor) 
     *  1998 - EIP Class 7 Scholar (Wakefield High School)
-    *  2004 - B.S. Chemistry (Honors), Minor Computer Science - George Mason University
-    *  2011 - Ph.D. Physical Chemistry - Iowa State University
+    *  2004 - B.S. Chemistry (Honors), Minor Computer Science - George Mason University (**6 years**)
+    *  2011 - Ph.D. Physical Chemistry - Iowa State University (**7 years**)
     *  2011 - Postdoctoral Researcher - Iowa State University
     *  2014 - Assistant Research Scientist (III) - The Ames Laboratory, DoE
     *  2018 - Senior Computational Scientist/Software Engineer - EP Analytics, Inc.
@@ -52,7 +52,7 @@
 *  Why should you learn [computer] programming?
 *  What is the impact of [computer] programming on our world?
 *  Emerging areas:
-    *  Artificial Intellegence
+    *  Artificial Intelligence
         *  Machine Learning
         *  Deep Learning (neural networks)
     *  Quantum Computing
@@ -70,10 +70,10 @@
     1.  Test if python is working: type `python` and hit enter
     2.  If you get an error then: type `set PATH=%PATH%;C:\Python34` and hit enter
         *  Note: If a different version of Python is installed then your path will need to reflect this.  Replace `34` with the version that is installed (e.g. Python 3.6 - replace with `36`)
-    3.  Repeat Step i.
+    3.  Repeat Step 1.
 *  Execute your script:
     *  Switch into the directory containing **hello.py** 
         *  `cd Documents`
-    *  Call the python program to interprent and execute your code
+    *  Call the python program to interpret and execute your code
         *  `python hello.py`
  
