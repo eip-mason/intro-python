@@ -31,7 +31,6 @@
 
 ### Introduction to basic data types in Python
 
-  *  None
   *  string (an array/list of characters)
   *  int
   *  float
@@ -46,6 +45,11 @@
       *  count()
       *  index()
   *  dictionary : `{}` - (key/value pairs)
+
+### None Python object
+
+  *  None
+  
 
 ### Typecasting
 
