@@ -21,7 +21,7 @@
     *  ATOM Editor
     *  Windows Command Prompt
         *  Add Python to your PATH
-            *  `set PATH=%PATH%;C:\Python34`
+            *  `set PATH=%PATH%;C:\Python38`
         *  List directory contents
             *  `dir`
         *  Change into a `<directory>`
