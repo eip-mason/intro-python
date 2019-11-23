@@ -15,6 +15,18 @@
 
 ### Technology in the News
 
+### Math level
+
+| Level | Count |
+|---------|-------|
+| Pre-Algebra | |
+| Algebra 1 | |
+| Algebra 2 | |
+| Geometry  | |
+| Trigonometry / Functions | |
+| Pre-Calculus | |
+| Calculus | | 
+
 ### Recap
 
 *  Hello World!
