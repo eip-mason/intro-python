@@ -88,14 +88,17 @@ Instructor-lead discussion on why someone would want to learn computer programmi
 
 ### Discussion - What is the impact of computer programming?
 Instructor-lead discussion on the societal impacts of computer programming.
-- Artificial intelligence/machine learning • Robotics/automation
+- Artificial intelligence/machine learning 
+- Robotics/automation
 - Cybersecurity/threats
 - Websites/E-commerce
-- Payment processing/transactions • Mobile Apps
+- Payment processing/transactions 
+- Mobile Apps
 - Weather modeling
 - Global positioning system (GPS)
 - Data encryption
-- Schedule/inventory management • Social media
+- Schedule/inventory management 
+- Social media
 
 ### Programming for a Computer
 Instructor will describe how a program is translated to machine code for the computer.
@@ -114,7 +117,3 @@ An interpreted high-level programming language released in 1991.
   - Python 3.11.0 https://www.python.org
 
 ### Programming Exercise: Hello World
-### Survey
-- G1 - https://forms.gle/3mqPuzfKsyg4PGWT8
-- G2 - https://forms.gle/K7F5ofM1VUXVzzZq8
-
