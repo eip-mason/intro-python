@@ -21,8 +21,8 @@ A computer lab which should facilitate the following:
 
 The following applications will be required for the course:
 
-- ATOM Editor https://atom.io
-  - (Alternatively) Sublime Editor https://www.sublimetext.com
+- Sublime Editor https://www.sublimetext.com
+  - (Alternatively) ATOM Editor https://atom.io
 - Python https://www.python.org/downloads
 
 ## Instructor and Mentor
@@ -31,10 +31,34 @@ The following applications will be required for the course:
 
 ## Session 3 : Saturday, March 4th
 
-### Recap
-### Discussion - Technology in the News
-### Booleans
-### Comparison Operators
-### Logical Operators
-### Exercise: Truth Table for Booleans
-
+### Reminder of student expectations
+### Review lesson plan
+### Generative AI
+- Buzzwords AI/ML/DL
+- Neural Networks
+- What is Generative AI?
+- Data -> Information
+- Data -> Information -> Knowledge
+- Popular Generative AI Tools
+- ChatGPT
+- ChatGPT Prompts
+- DALL-E
+- Generative AI Inception
+- Generative AI and Academic Code of Conduct
+### Hello World Python
+- ChatGPT Prompt
+- Programming Environment
+- Programming Exercise: Hello World
+### Arithmetic Operations in Python
+- Programming Exercise: Maths!
+- Programming Exercise: More Maths!!
+### Operator Precedence
+### Class Exercise: PEMDAS
+- ChatGPT Prompt
+### Basic Data Types in Python
+### Integer
+### Floating-point
+### Class Exercise: Integer or Float
+### String
+- String Methods
+### Type Casting
