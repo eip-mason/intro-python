@@ -33,8 +33,6 @@ The following applications will be required for the course:
   - 2011 - Postdoctoral Researcher - Iowa State University
   - 2014 - Assistant Research Scientist (III) - The Ames Laboratory, The Department of Energy
   - 2018 - Senior Computational Scientist/Software Engineer - EP Analytics, Inc.
-- Jesse McClandish
-  - 2020 B.S. Computer Science - George Mason University
 
 ## Session 1 : Saturday, October 28th
 ## Session 2 : Saturday, December 2nd
