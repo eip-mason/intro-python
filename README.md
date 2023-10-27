@@ -9,22 +9,6 @@ Upon successful completion of this course, students will be able to:
 - Improve their problem solving skills
 - Write, read, and execute Python code using basic data types and operators
 
-## Materials
-
-A computer lab which should facilitate the following:
-
-- A classroom that can provide each student with access to a computing terminal and Internet access.
-- The ability to download and install applications from the Internet.
-- A large screen to project the instructor's computing terminal.
-
-## Software
-
-The following applications will be required for the course:
-
-- ATOM Editor https://atom.io
-  - (Alternatively) Sublime Editor https://www.sublimetext.com
-- Python https://www.python.org/downloads
-
 ## Instructor and Mentor
 - Sarom Leang, Ph.D. (Instructor)
   - 1998 - EIP Class 7 Scholar (Wakefield High School)
@@ -35,8 +19,24 @@ The following applications will be required for the course:
   - 2018 - Senior Computational Scientist/Software Engineer - EP Analytics, Inc.
 
 ## Session 1 : Saturday, October 28th
+- Entrance Survey
+- How Computer Work
 ## Session 2 : Saturday, December 2nd
-## Session 3 : Saturday, February 2nd
-## Session 4 : Saturday, March 23th
+- Parallel Computing
+## Session 3 : Saturday, February 10th
+- Generative Artificial Intelligence
+## Session 4 : Saturday, March 23rd
+- Quantum Computing
 ## Session 5 : Saturday, April 20th
+- Future of Computing
+- Exit Survey
 
+## Topics Covered
+- Algorithms and Problem Solving
+- Debuggin and Troubleshooting
+- Loops
+- Algorithms and Syntax
+- Variables and Conditionals
+- Variable Arithmetic
+- Conditionals (If/Else)
+- Compound Conditionals
